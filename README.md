@@ -1,5 +1,7 @@
 # TODO: Include NavSat velocity mapping in the mapping tab
 
+## This is a package created on the basis of [ros_gz_bridge](https://github.com/gazebosim/ros_gz/tree/ros2/ros_gz_bridge). It has been modified to include a mapping between the NavSat Gazebo Sim plugin velocities and ROS2 Humble.
+
 # Bridge communication between ROS and Gazebo
 
 This package provides a network bridge which enables the exchange of messages
